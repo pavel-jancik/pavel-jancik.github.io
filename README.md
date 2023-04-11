@@ -1,2 +1,3 @@
-# pavel-jancik.github.io
-Personal GH Page
+# Helm chart repository
+
+Helm chart repo.
